@@ -1,0 +1,771 @@
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#trickortreatin 100years	trick or treat in  100 years	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
+#더쇼	더쇼	6
+#갓제븐	갓제븐	6
+#1122_기현데이	1 1 2 2 _기현데이	6
+#더쇼	더쇼	6
+#김재중	김재중	6
+#trickortreatin 100years	trick or treat in  100 years	6
+#trumpbacktoschooltips	trump back to school tips	5
+#starwarschristmascarols	star wars christmas carols	4
+#nspw 2017	nspw  2 0 1 7	6
+#dirtydenier	dirty denier	2
+#alternativefacts	alternative facts	2
+#youlookdisgusting	you look disgusting	3
+#napaquake	nap a quake	3
+#napastrong	nap a strong	3
+#metoo	me too	2
+#metoo	me too	2
+#icantbreathe	icantbre a the	3
+#staywokeandvote	stay woke and vote	4
+#dearbetsy	dear betsy	2
+#11717	11717	1
+#explainthe 90sin 4words	explainthe 90sin 4words	0
+#metoo	me too	2
+#metoo	me too	2
+#dropthecover	drop the cover	3
+#myroommateisweird	my roommate is weird	4
+#thereisaidit	the rei said it	4
+#metoo	me too	2
+#brownribboncampaign	brown ribbon campaign	3
+#addcandytoamovie	add candy to a movie	5
+#prayforpaulgeorge	pray for paul george	4
+#hscc 2015	hscc  2 0 1 5	6
+#teamlogan	team logan	2
+#iphonefeatures 4politicians	i ph one features  4 politicians	6
+#ridiculousexcusestostayhome	ridiculous excuses to stay home	5
+#badpicturemonday	bad picture monday	3
+#oscarssowhite	os cars so white	4
+#dadlife	dad life	2
+#surfbort	surf bo rt	6
+#teamnocancer	team no cancer	3
+#alohahuffpost	aloha huff post	3
+#trumphair	trump hair	2
+#metoo	me too	2
+#meat 14	me at  14	6
+#xmasgiftsfromtrump	xm as gifts from trump	6
+#womenboycotttwitter	women boycott twitter	3
+#mewesyria	me we syria	3
+#menforchoice	men for choice	3
+#talktome	talk tome	2
+#obamaandkids	obama and kids	3
+#addclimatechangetotv	add climate change to tv	5
+#missuniverse 2015	miss un i verse  2015	6
+#metoo	me too	2
+#kellyonmymind	kelly on my mind	4
+#trybeatingmelightly	try beating me lightly	4
+#gopsongsaboutethics	gop songs about ethics	4
+#metoo	me too	2
+#talktome	talk tome	2
+#nobannowall	nob anno wall	3
+#emojisinthewild	emoj is in the wild	6
+#ionceoverheard	i once overheard	3
+#millionsmarchsf	mill i ons march sf	6
+#friendshipgoals	friendship goals	2
+#middleagedschmovies	middle a ge dsch mo vies	6
+#trumpacandy	trump a candy	3
+#metoo	me too	2
