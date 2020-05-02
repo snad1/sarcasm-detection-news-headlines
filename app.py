@@ -62,7 +62,7 @@ def home():
                 results['neg'] = round(results['neg'] * 100, 2)
                 # print('results----------------', results)
             except Exception as e:
-                print('Error:', e)
+                print('Error-ttt:', e)
                 # raise
 
         else:
